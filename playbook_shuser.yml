@@ -1,3 +1,4 @@
+---
 - hosts: cisco
   gather_facts: no
 
